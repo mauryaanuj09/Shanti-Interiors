@@ -1,4 +1,4 @@
-# SHANTI INTERIOR — Free Static Website
+# SHANTI INTERIOR —
 
 ## Files
 - `index.html` — complete website
