@@ -1,0 +1,5 @@
+Put your catalogue PDFs in this folder, for example:
+home-interior.pdf
+modular-kitchen.pdf
+office-commercial.pdf
+Then change the # links in index.html to assets/catalogue/filename.pdf
